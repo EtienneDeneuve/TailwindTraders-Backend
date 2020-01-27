@@ -5,9 +5,9 @@ resources:
 - repo: self
 
 variables:
-  # subscription: ''
-  # acrName: ''
-  # resourceGroup: ''
+  subscription: 'MVP SponsorShip'
+  acrName: 'demoetienne'
+  resourceGroup: 'rg-home'
   deployfrom: 'Deploy'
 
 jobs:
